@@ -1,3 +1,5 @@
+#This code was copied from the TA teaching the Wednesday Lab on Jan 8. (I didn't get his name)
+
 import requests
 print(requests.__version__)
 
