@@ -6,5 +6,6 @@ google = requests.get("https://www.google.com")
 print(google)
 
 
-script = requests.get("https://raw.githubusercontent.com/gneagu/Cmput404-Lab1/m$
+script = requests.get("https://raw.githubusercontent.com/gneagu/Cmput404-Lab1/master/requests_version.py")
 print(script.content)
+
